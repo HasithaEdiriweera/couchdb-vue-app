@@ -1,5 +1,8 @@
 # To create a simple application using CouchDB with Vue.js that allows you to save and retrieve text, including Japanese text, follow these steps:
 
+![logo](https://github.com/HasithaEdiriweera/couchdb-vue-app/blob/main/vue-text-app.png)
+
+
 ## Set up CouchDB:
 
 ```
